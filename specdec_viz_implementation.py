@@ -100,4 +100,4 @@ def step(tick: int = 0, sent: int=0):
 
 
 @rt
-def index(): return Titled('Speculative Decoding Visualization', step(0))
+def viz(): return Titled('Speculative Decoding Visualization', step(0))
