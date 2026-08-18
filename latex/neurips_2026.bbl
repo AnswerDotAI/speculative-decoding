@@ -1,0 +1,64 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Cai et~al.(2024)Cai, Li, Geng, Peng, Lee, Chen, and
+  Dao]{cai_medusa_2024}
+Tianle Cai, Yuhong Li, Zhengyang Geng, Hongwu Peng, Jason~D. Lee, Deming Chen,
+  and Tri Dao.
+\newblock Medusa: {Simple} {LLM} {Inference} {Acceleration} {Framework} with
+  {Multiple} {Decoding} {Heads}, June 2024.
+\newblock URL \url{http://arxiv.org/abs/2401.10774}.
+\newblock arXiv:2401.10774 [cs.LG].
+
+\bibitem[Chen et~al.(2023)Chen, Borgeaud, Irving, Lespiau, Sifre, and
+  Jumper]{chen_accelerating_2023}
+Charlie Chen, Sebastian Borgeaud, Geoffrey Irving, Jean-Baptiste Lespiau,
+  Laurent Sifre, and John Jumper.
+\newblock Accelerating {Large} {Language} {Model} {Decoding} with {Speculative}
+  {Sampling}, February 2023.
+\newblock URL \url{http://arxiv.org/abs/2302.01318}.
+\newblock arXiv:2302.01318 [cs.CL].
+
+\bibitem[Fu et~al.(2024)Fu, Bailis, Stoica, and Zhang]{fu_break_2024}
+Yichao Fu, Peter Bailis, Ion Stoica, and Hao Zhang.
+\newblock Break the {Sequential} {Dependency} of {LLM} {Inference} {Using}
+  {Lookahead} {Decoding}, February 2024.
+\newblock URL \url{http://arxiv.org/abs/2402.02057}.
+\newblock arXiv:2402.02057 [cs.LG].
+
+\bibitem[Leviathan et~al.(2023)Leviathan, Kalman, and
+  Matias]{leviathan_fast_2023}
+Yaniv Leviathan, Matan Kalman, and Yossi Matias.
+\newblock Fast {Inference} from {Transformers} via {Speculative} {Decoding},
+  May 2023.
+\newblock URL \url{http://arxiv.org/abs/2211.17192}.
+\newblock arXiv:2211.17192 [cs.LG].
+
+\bibitem[Leviathan et~al.(2024)Leviathan, Kalman, and
+  Matias]{leviathan_looking_2024}
+Yaniv Leviathan, Matan Kalman, and Yossi Matias.
+\newblock Looking back at speculative decoding, 2024.
+\newblock URL
+  \url{https://research.google/blog/looking-back-at-speculative-decoding/}.
+
+\bibitem[Li et~al.(2025)Li, Wei, Zhang, and Zhang]{li_eagle_2025}
+Yuhui Li, Fangyun Wei, Chao Zhang, and Hongyang Zhang.
+\newblock {EAGLE}: {Speculative} {Sampling} {Requires} {Rethinking} {Feature}
+  {Uncertainty}, March 2025.
+\newblock URL \url{http://arxiv.org/abs/2401.15077}.
+\newblock arXiv:2401.15077 [cs.LG].
+
+\bibitem[Shah et~al.(2024)Shah, Eassa, Putterman, Vaidya, Gangani, and
+  Srivastava]{shah_boost_2024}
+Anjali Shah, Ashraf Eassa, Carl~(Izzy) Putterman, Lalit Vaidya, Jatin Gangani,
+  and Anu Srivastava.
+\newblock Boost {Llama} 3.3 {70B} {Inference} {Throughput} 3x with {NVIDIA}
+  {TensorRT}-{LLM} {Speculative} {Decoding}, December 2024.
+\newblock URL
+  \url{https://developer.nvidia.com/blog/boost-llama-3-3-70b-inference-throughput-3x-with-nvidia-tensorrt-llm-speculative-decoding/}.
+
+\end{thebibliography}
