@@ -2,45 +2,45 @@ This is BibTeX, Version 0.99e (TeX Live 2026)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: neurips_2026.aux
 The style file: plainnat.bst
-Database file #1: refs.bib
+Database file #1: ref.bib
 You've used 7 entries,
             2773 wiz_defined-function locations,
-            635 strings with 6678 characters,
-and the built_in function-call counts, 3574 in all, are:
-= -- 284
+            635 strings with 6581 characters,
+and the built_in function-call counts, 4790 in all, are:
+= -- 441
 > -- 318
-< -- 0
+< -- 8
 + -- 106
 - -- 99
-* -- 324
-:= -- 569
-add.period$ -- 26
+* -- 422
+:= -- 688
+add.period$ -- 28
 call.type$ -- 7
 change.case$ -- 54
 chr.to.int$ -- 7
 cite$ -- 14
-duplicate$ -- 112
-empty$ -- 232
+duplicate$ -- 198
+empty$ -- 333
 format.name$ -- 106
-if$ -- 721
+if$ -- 1037
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 0
-newline$ -- 48
+missing$ -- 4
+newline$ -- 46
 num.names$ -- 28
-pop$ -- 129
+pop$ -- 119
 preamble$ -- 1
 purify$ -- 47
 quote$ -- 0
-skip$ -- 114
+skip$ -- 177
 stack$ -- 0
-substring$ -- 14
-swap$ -- 13
-text.length$ -- 0
+substring$ -- 198
+swap$ -- 71
+text.length$ -- 8
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 77
 warning$ -- 0
-while$ -- 21
+while$ -- 33
 width$ -- 0
-write$ -- 101
+write$ -- 113
