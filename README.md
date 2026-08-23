@@ -49,13 +49,14 @@ server.
 Stop the server with `server.stop()` when you have finished with it. If the visualization
 misbehaves, stop the server and run the cells again.
 
-If you cannot run the server at all, the folder includes a screen recording of the
-visualization instead.
+If you cannot run the server at all, the tutorial plays a screen recording of the
+visualization instead, from `spec_dec_video.mp4`.
 
 ## Files
 
 - `speculative-decoding-tutorial.ipynb` — the tutorial
 - `specdec_viz_implementation.py` — the visualization, imported by the tutorial
+- `spec_dec_video.mp4` — a screen recording of the visualization, played by the tutorial
 - `specdec-viz-implementation.ipynb` — how the visualization was built, for readers who
   want to modify it
 - `requirements.txt` — the dependencies
