@@ -1,13 +1,10 @@
 # Speculative Decoding: An Interactive Tutorial
 
-An interactive tutorial on speculative decoding, aimed at advanced undergraduates.
+This tutorial assumes you are familiar with Python and probability distributions, and that you know
+the rough idea of how an LLM generates text one token at a time. It does not assume any background with speculative decoding.
 
-It assumes you are familiar with Python and probability distributions, and that you know
-roughly how an LLM generates text one token at a time. It does not assume you have met
-speculative decoding before.
-
-The tutorial has three parts. The first builds an interactive visualization of the
-algorithm. The second checks on a toy data set that speculative decoding samples from the
+The tutorial has three parts. The first offers an interactive visualization of what the
+algorithm does. The second checks on a toy data set that speculative decoding samples from the
 same distribution as the slower model it replaces. The third works out where the speedup
 comes from, and closes with an exercise.
 
@@ -42,12 +39,7 @@ Run the cells in order.
 The visualization runs on a small web server started by the notebook itself, and it
 displays at `http://localhost:8000`.
 
-If port 8000 is already in use on your machine, the visualization will not appear. Either
-stop whatever is using the port, or set `PORT` to a free port in the cell that starts the
-server.
-
-Stop the server with `server.stop()` when you have finished with it. If the visualization
-misbehaves, stop the server and run the cells again.
+If port 8000 is already in use on your machine, the visualization will not appear. You can update the `PORT` variable to a free port in the cell that starts the server.
 
 If you cannot run the server at all, the tutorial plays a screen recording of the
 visualization instead, from `spec_dec_video.mp4`.
