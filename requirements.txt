@@ -1,0 +1,4 @@
+jupyterlab
+python-fasthtml
+numpy
+matplotlib

@@ -1,4 +1,4 @@
-\begin{thebibliography}{7}
+\begin{thebibliography}{8}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -23,6 +23,20 @@ Charlie Chen, Sebastian Borgeaud, Geoffrey Irving, Jean-Baptiste Lespiau,
   {Sampling}, February 2023.
 \newblock URL \url{http://arxiv.org/abs/2302.01318}.
 \newblock arXiv:2302.01318 [cs.CL].
+
+\bibitem[Cheng et~al.(2026)Cheng, Yu, Shao, Li, Xiong, Qian, Zhu, Ma, Zhang,
+  Ye, Chen, Deng, Yu, Dai, Zhang, Wei, Tan, Yang, Xu, Wu, Xu, Wang, Chen, Tian,
+  Bi, Hao, Chen, Cao, Zhang, Xu, Zhang, Zhao, and Liang]{cheng_dspark_2026}
+Xin Cheng, Xingkai Yu, Chenze Shao, Jiashi Li, Yunfan Xiong, Yi~Qian, Jiaqi
+  Zhu, Shirong Ma, Xiaokang Zhang, Jiasheng Ye, Qinyu Chen, Chengqi Deng,
+  Jiping Yu, Damai Dai, Zhengyan Zhang, Yixuan Wei, Yixuan Tan, Wenkai Yang,
+  Runxin Xu, Yu~Wu, Zhean Xu, Xuanyu Wang, Muyang Chen, Rui Tian, Xiao Bi,
+  Zhewen Hao, Shaoyuan Chen, Huanqi Cao, Wentao Zhang, Anyi Xu, Huishuai Zhang,
+  Dongyan Zhao, and Wenfeng Liang.
+\newblock {DSpark}: {Confidence}-{Scheduled} {Speculative} {Decoding} with
+  {Semi}-{Autoregressive} {Generation}, 2026.
+\newblock URL \url{https://arxiv.org/abs/2607.05147}.
+\newblock arXiv:2607.05147 [cs.AI].
 
 \bibitem[Fu et~al.(2024)Fu, Bailis, Stoica, and Zhang]{fu_break_2024}
 Yichao Fu, Peter Bailis, Ion Stoica, and Hao Zhang.
