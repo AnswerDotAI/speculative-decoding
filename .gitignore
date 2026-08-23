@@ -1,4 +1,8 @@
 pdf-to-md.ipynb
 updated-PDF-to-MD.ipynb
+__pycache__/
+.DS_Store
+.sesskey
+.venv/
 
 
