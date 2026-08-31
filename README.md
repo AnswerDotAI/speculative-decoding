@@ -1,6 +1,6 @@
 # Speculative Decoding: An Interactive Tutorial
 
-Speculative decoding is a widely used method to speed up generation of tokens by LLMs. It is an ongoing, active area of machine learning research, and it is widely used in productions systems (including at NVIDIA, Google, and DeepSeek).
+Speculative decoding is a widely used method to speed up generation of tokens by LLMs. It is an ongoing, active area of machine learning research, and it is widely used in production systems (including at NVIDIA, Google, and DeepSeek).
 
 This tutorial assumes you are familiar with Python and probability distributions, and that you know
 the rough idea of how an LLM generates text one token at a time. It does not assume any background with speculative decoding.
@@ -54,3 +54,4 @@ visualization instead, from `spec_dec_video.mp4`.
 - `specdec-viz-implementation.ipynb` — how the visualization was built, for readers who
   want to modify it
 - `requirements.txt` — the dependencies
+- `speculative-decoding.pdf` — the two-page summary for the NeurIPS 2026 Education Track
