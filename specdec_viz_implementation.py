@@ -60,9 +60,9 @@ def step(tick: int = 0, sent: int=0):
     
     # determine phase for speculative decoding
     if is_resolve:
-        phase = Span('M', Sub('p'), ' verifying (parallel)', style='white-space:nowrap') 
+        phase = Span('M', Sub('target'), ' verifying (parallel)', style='white-space:nowrap') 
     else:
-        phase = Span('M', Sub('q'), ' guessing', style='white-space:nowrap')
+        phase = Span('M', Sub('draft'), ' guessing', style='white-space:nowrap')
     if spec_done: phase = Span('finished', style='white-space:nowrap')
 
     # standard approach (without speculative decoding)
