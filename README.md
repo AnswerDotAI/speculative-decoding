@@ -10,7 +10,7 @@ algorithm does. The second checks on a toy data set that speculative decoding sa
 same distribution as the slower model it replaces. The third works out where the speedup
 comes from, and closes with an exercise.
 
-As an alternative to the Github version, you can load it in a single SolveIt dialog here: https://share.solveit.pub/d/862214e40cbc85272b7de0ad8943081d
+As an alternative to the Github version, you can load it in a single SolveIt dialog here: https://share.solveit.pub/d/91338132b22f609f9e155c2c930277ae
 
 ## What you need
 
